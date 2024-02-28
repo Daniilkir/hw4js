@@ -1,0 +1,12 @@
+{
+  "name": "hw4js",
+  "version": "1.0.0",
+  "description": "Дз",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Даня",
+  "license": "ISC"
+}
